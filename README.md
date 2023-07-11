@@ -77,6 +77,7 @@ implementation of IPVM. It is in no way exhaustive.
 ### Privacy-preserving Protocols
 
 * [DECO: Liberating Web Data Using Decentralized Oracles for TLS][deco]
+* [DIDO: Data Provenance from Restricted TLS 1.3 Websites][dido]
 
 
 [1-step]: https://arxiv.org/pdf/1812.03651.pdf
@@ -85,6 +86,7 @@ implementation of IPVM. It is in no way exhaustive.
 [caps-demolished]: https://srl.cs.jhu.edu/pubs/SRL2003-02.pdf
 [captp]: http://erights.org/elib/distrib/captp/index.html
 [deco]: https://arxiv.org/pdf/1909.00938.pdf
+[dido]: https://eprint.iacr.org/2023/1056.pdf
 [durable-fns]: https://angelhof.github.io/files/papers/durable-functions-2021-oopsla.pdf
 [gossipsub]: https://arxiv.org/pdf/2007.02754.pdf
 [ipfs]: https://arxiv.org/pdf/2208.05877.pdf
