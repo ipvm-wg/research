@@ -27,7 +27,7 @@ implementation of IPVM. It is in no way exhaustive.
 * [A.M.B.R.O.S.I.A: Providing Performant Virtual Resiliency for Distributed Applications][ambrosia]
 * [Durable Functions: Semantics for Stateful Serverless][durable-fns]
 * [Netherite: Efficient Execution of Serverless Workflows][netherite]
-* [SEQUEL: A STRUCIURED ~NGLISH QUERY LANGUAGE][sequel]
+* [SEQUEL: A Structured English Query Language][sequel]
 
 ### Scheduling
 
@@ -72,7 +72,7 @@ implementation of IPVM. It is in no way exhaustive.
 
 * [Capability Myths Demolished][caps-demolished]
 * [CapTP: The Capability Transport Protocol][captp]
-* [Ucan Spec][ucan-spec]
+* [UCAN Spec][ucan-spec]
 
 ### Privacy-preserving Protocols
 
@@ -80,7 +80,7 @@ implementation of IPVM. It is in no way exhaustive.
 
 
 [1-step]: https://arxiv.org/pdf/1812.03651.pdf
-[ambrosia]: https://www.microsoft.com/en-us/research/uploads/prod/2018/12/AmbrosiaPaper.pdf
+[ambrosia]: https://irenezhang.net/papers/ambrosia-vldb19.pdf
 [aws-lambda]: https://arxiv.org/pdf/2305.13162.pdf
 [caps-demolished]: https://srl.cs.jhu.edu/pubs/SRL2003-02.pdf
 [captp]: http://erights.org/elib/distrib/captp/index.html
@@ -103,8 +103,8 @@ implementation of IPVM. It is in no way exhaustive.
 [wasm-baseline]: https://arxiv.org/pdf/2305.13241.pdf
 [wasm-bringing-up]: https://github.com/WebAssembly/spec/blob/master/papers/pldi2017.pdf
 [wasm-component]: https://github.com/WebAssembly/component-model
-[wasm-dyn]: https://helda.helsinki.fi/server/api/core/bitstreams/f535af54-70a8-4b35-a0aa-927543d4601c/content
-[wasm-runtimes]: https://par.nsf.gov/servlets/purl/10337553
+[wasm-dyn]: https://dl.acm.org/doi/abs/10.1145/3412841.3442045
+[wasm-runtimes]: https://arxiv.org/pdf/2301.12102.pdf
 [wasm-study]: https://ieeexplore.ieee.org/document/10123536
 [wit]: https://github.com/WebAssembly/component-model/blob/main/design/mvp/WIT.md
 [zawa]: https://jhc.sjtu.edu.cn/~hongfeifu/manuscriptb.pdf
