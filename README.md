@@ -3,8 +3,6 @@
 A short list of relevant research related to [IPVM][ipvm-wg] and the [Homestar][homestar]
 implementation of IPVM. It is in no way exhaustive.
 
-##
-
 ## Distributed Orchestration and Compute Engines
 
 * [Escaping the Singularity: Side Effects, Front and Center!][side-effects]
