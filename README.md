@@ -8,9 +8,10 @@ implementation of IPVM. It is in no way exhaustive.
 * [Escaping the Singularity: Side Effects, Front and Center!][side-effects]
 * [Parallel Programming Must Be Deterministic by Default][pp-default]
 
-### Composition & Concurrency Control
+### Effect Systems
 
 * [Robust Composition: Towards a Unified Approach to Access Control and Concurrency Control][robust-comp]
+* [Effects, Capabilities, and Boxes][eff-cap-box]
 
 ### Coordination and Transformation
 
@@ -86,6 +87,7 @@ implementation of IPVM. It is in no way exhaustive.
 [deco]: https://arxiv.org/pdf/1909.00938.pdf
 [dido]: https://eprint.iacr.org/2023/1056.pdf
 [durable-fns]: https://angelhof.github.io/files/papers/durable-functions-2021-oopsla.pdf
+[eff-cap-box]: https://dl.acm.org/doi/pdf/10.1145/3527320
 [gossipsub]: https://arxiv.org/pdf/2007.02754.pdf
 [ipfs]: https://arxiv.org/pdf/2208.05877.pdf
 [ipfs-fan]: https://research.protocol.ai/publications/ipfs-fan-a-function-addressable-computation-network/delarocha2021a.pdf
